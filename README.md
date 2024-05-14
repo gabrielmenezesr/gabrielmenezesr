@@ -11,8 +11,11 @@
 
 ----
 
+<td><a href="mailto:gabrielmenezesrezende@gmail.com" target="_blank"><img src="https://github.com/gabrielmenezesr/gabrielmenezesr/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
 
 
+
+----
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
@@ -21,3 +24,4 @@
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmenezesr&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmenezesr&theme=github_dark"/>
 </div>
+----
