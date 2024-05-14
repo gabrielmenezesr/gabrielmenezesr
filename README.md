@@ -5,7 +5,7 @@
 -----
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, Sou o Gabriel Menezes, tenho 20 anos, moro em BH sou programador iniciante, sócio proprietário da empresa <a href="https://grupobmccapital.com.br/" target="_blank">BMC CAPITAL PARTNERS</a>.
+<i><b>Olá</b> :wave:, Sou o Gabriel Menezes, tenho 20 anos, moro em BH e sou programador iniciante, sócio proprietário da empresa <a href="https://grupobmccapital.com.br/" target="_blank">BMC CAPITAL PARTNERS</a>.
 </div>
 
 
