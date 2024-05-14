@@ -10,7 +10,12 @@
 
 
 ----
-
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
 <td><a href="mailto:gabrielmenezesrezende@gmail.com" target="_blank"><img src="https://github.com/gabrielmenezesr/gabrielmenezesr/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
 <td><a href="https://wa.me/5531989354323" target="_blank"><img src="https://github.com/gabrielmenezesr/gabrielmenezesr/blob/main/img/wpp2.png" width="50px" height="50px"/>
 
