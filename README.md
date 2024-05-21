@@ -37,3 +37,5 @@
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmenezesr&theme=github_dark"/>
 </div>
 ----
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielmenezesr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
