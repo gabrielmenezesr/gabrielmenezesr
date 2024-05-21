@@ -35,7 +35,7 @@
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielmenezesr&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmenezesr&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmenezesr&theme=github_dark"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmenezesr&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 ----
 
